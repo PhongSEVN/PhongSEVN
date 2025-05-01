@@ -13,14 +13,14 @@
 <span><img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=#61DAFB" alt="React Native logo" title="React Native" height="25" /></span>
 &nbsp;
 <!-- Kotlin -->
-<span><img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=#7F52FF" alt="kotlin logo" title="kotlin" height="25" /></span>
-&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=#7F52FF" alt="kotlin logo" title="kotlin" height="25" /></span>
+&nbsp; -->
 <!-- Java -->
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=#7F52FF" alt="java logo" title="java" height="25"/></span>
 &nbsp;
 <!-- Firebase -->
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp; -->
 <!-- Vs code -->
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
