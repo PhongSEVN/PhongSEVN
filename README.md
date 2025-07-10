@@ -86,4 +86,7 @@
   <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes) -->
  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=synthwave)
 
+ <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=PhongSEVN.PhongSEVN&"  />
+
+
 </div>
